@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+
+}
+
+#calcbody{
+    width:30%;
+    margin: 0px auto;
+    background:black;
+    color:red;
+    height:60vh;
+}
+#screen{
+    position: relative;
+    width:90%;
+    margin-left:5%;
+    height:40px;
+}
+.btn,.opr,.result{
+    width:40px;
+    height:40px;
+}
